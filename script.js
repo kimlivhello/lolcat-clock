@@ -1,9 +1,9 @@
 var noon = 12;
 var evening = 18;
 
-var wakeUpTime = 6;
-var lunchTime = 11;
-var napTime = 14;
+var wakeUpTime = 7;
+var lunchTime = 12;
+var napTime = 15;
 var partyTime= 19;
 var timeNow = new Date().getHours();
 
